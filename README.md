@@ -1,3 +1,2 @@
-- João Victor Francisco de Barros
 - Estudante de Engenharia da Computação
 - CEFET-MG Campus V, Divinópolis-MG
